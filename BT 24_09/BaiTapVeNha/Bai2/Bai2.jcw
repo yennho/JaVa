@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Bai2</label>
+	</settings>
+	<users>
+		<user>
+			<path>Bai2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Bai2.jcp</path>
+		</project>
+		<project>
+			<path>..\Bai3\Bai3.jcp</path>
+		</project>
+		<project>
+			<path>..\Bai4\Bai4.jcp</path>
+		</project>
+	</projects>
+</workspace>

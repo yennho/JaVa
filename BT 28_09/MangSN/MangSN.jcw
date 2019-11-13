@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MangSN</label>
+	</settings>
+	<users>
+		<user>
+			<path>MangSN.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MangSN.jcp</path>
+		</project>
+	</projects>
+</workspace>
